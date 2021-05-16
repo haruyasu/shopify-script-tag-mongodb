@@ -1,5 +1,4 @@
-// const APP_URl = 'https://script-tags.herokuapp.com'
-const APP_URl = 'https://shopify-script-tag-mongodb.vercel.app'
+const APP_URl = 'https://shopifytopapp.herokuapp.com'
 
 const script = document.createElement('script')
 script.src = 'https://code.jquery.com/jquery-3.4.1.min.js'
